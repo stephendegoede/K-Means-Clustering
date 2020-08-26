@@ -1,0 +1,891 @@
+/////1953/////
+
+Number of Countries per Cluster
+Cluster 1: 50
+Cluster 2: 60
+Cluster 3: 86
+
+Number of Countries per Cluster
+Cluster 1: 120
+Cluster 2: 42
+Cluster 3: 34
+
+List of Countries per Cluster
+Cluster 1
+
+Argentina
+Armenia
+Australia
+Austria
+Belarus
+Belgium
+Bulgaria
+Canada
+Channel Islands
+Croatia
+Cuba
+Cyprus
+Czech Rep.
+Denmark
+Estonia
+Finland
+France
+Georgia
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Israel
+Italy
+Japan
+Korea  Dem. Rep.
+Latvia
+Lithuania
+Luxembourg
+Malta
+Moldova
+Montenegro
+Netherlands
+New Zealand
+Norway
+Poland
+Portugal
+Romania
+Russia
+Serbia
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Switzerland
+Ukraine
+United Kingdom
+United States
+Uruguay
+
+Cluster 2
+
+Albania
+Aruba
+Azerbaijan
+Bahamas
+Barbados
+Belize
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Chile
+Colombia
+Costa Rica
+Ecuador
+Fiji
+French Guiana
+French Polynesia
+Grenada
+Guadeloupe
+Guam
+Guyana
+Hong Kong  China
+Jamaica
+Jordan
+Kazakhstan
+Korea  Rep.
+Kuwait
+Kyrgyzstan
+Lebanon
+Macao  China
+Macedonia  FYR
+Malaysia
+Martinique
+Mauritius
+Mayotte
+Mexico
+Micronesia  Fed. Sts.
+Netherlands Antilles
+New Caledonia
+Panama
+Paraguay
+Philippines
+Puerto Rico
+Qatar
+Reunion
+Saint Lucia
+Saint Vincent and the Grenadines
+Sao Tome and Principe
+Singapore
+Sri Lanka
+Suriname
+Tajikistan
+Thailand
+Tonga
+Trinidad and Tobago
+Turkmenistan
+Uzbekistan
+Venezuela
+Virgin Islands (U.S.)
+Zimbabwe
+
+Cluster 3
+
+Afghanistan
+Algeria
+Angola
+Bahrain
+Bangladesh
+Benin
+Bhutan
+Bolivia
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Central African Rep.
+Chad
+China
+Comoros
+Congo  Dem. Rep.
+Congo  Rep.
+Cote d'Ivoire
+Djibouti
+Dominican Rep.
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Ethiopia
+Gabon
+Gambia
+Ghana
+Guatemala
+Guinea
+Guinea-Bissau
+Haiti
+Honduras
+India
+Indonesia
+Iran
+Iraq
+Kenya
+Laos
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Maldives
+Mali
+Mauritania
+Mongolia
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Nicaragua
+Niger
+Nigeria
+Oman
+Pakistan
+Papua New Guinea
+Peru
+Rwanda
+Samoa
+Saudi Arabia
+Senegal
+Sierra Leone
+Solomon Islands
+Somalia
+South Africa
+Sudan
+Swaziland
+Syria
+Tanzania
+Timor-Leste
+Togo
+Tunisia
+Turkey
+Uganda
+United Arab Emirates
+Vanuatu
+Vietnam
+West Bank and Gaza
+Western Sahara
+Yemen  Rep.
+Zambia
+
+Cluster 1
+Mean Birth Rate: 22.442960000000006
+Mean Life Expectancy: 65.70389999999999
+
+Cluster 2
+Mean Birth Rate: 41.72383333333333
+Mean Life Expectancy: 54.929249999999996
+
+Cluster 3
+Mean Birth Rate: 47.36147674418605
+Mean Life Expectancy: 39.21121534883723
+
+
+/////2008/////
+
+Number of Countries per Cluster
+Cluster 1: 120
+Cluster 2: 42
+Cluster 3: 34
+
+List of Countries per Cluster
+Cluster 1
+
+Albania
+Algeria
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Barbados
+Belarus
+Belgium
+Belize
+Bosnia and Herzegovina
+Brazil
+Brunei
+Bulgaria
+Canada
+Cape Verde
+Channel Islands
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Rep.
+Denmark
+Dominican Rep.
+Ecuador
+Egypt
+El Salvador
+Estonia
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+Georgia
+Germany
+Greece
+Grenada
+Guadeloupe
+Guam
+Guyana
+Hong Kong  China
+Hungary
+Iceland
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Korea  Dem. Rep.
+Korea  Rep.
+Kuwait
+Latvia
+Lebanon
+Libya
+Lithuania
+Luxembourg
+Macao  China
+Macedonia  FYR
+Malaysia
+Maldives
+Malta
+Martinique
+Mauritius
+Mayotte
+Mexico
+Moldova
+Mongolia
+Montenegro
+Morocco
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Norway
+Oman
+Panama
+Peru
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+Saudi Arabia
+Serbia
+Singapore
+Slovak Republic
+Slovenia
+Spain
+Sri Lanka
+Suriname
+Sweden
+Switzerland
+Thailand
+Trinidad and Tobago
+Tunisia
+Turkey
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Virgin Islands (U.S.)
+
+Cluster 2
+
+Bangladesh
+Bhutan
+Bolivia
+Botswana
+Cambodia
+Comoros
+Djibouti
+Eritrea
+Gabon
+Ghana
+Guatemala
+Haiti
+Honduras
+India
+Iraq
+Jordan
+Kazakhstan
+Kyrgyzstan
+Laos
+Madagascar
+Mauritania
+Micronesia  Fed. Sts.
+Myanmar
+Namibia
+Nepal
+Pakistan
+Papua New Guinea
+Paraguay
+Philippines
+Sao Tome and Principe
+Solomon Islands
+South Africa
+Sudan
+Syria
+Tajikistan
+Togo
+Tonga
+Turkmenistan
+Vanuatu
+West Bank and Gaza
+Western Sahara
+Yemen  Rep.
+
+Cluster 3
+
+Afghanistan
+Angola
+Benin
+Burkina Faso
+Burundi
+Cameroon
+Central African Rep.
+Chad
+Congo  Dem. Rep.
+Congo  Rep.
+Cote d'Ivoire
+Equatorial Guinea
+Ethiopia
+Gambia
+Guinea
+Guinea-Bissau
+Kenya
+Lesotho
+Liberia
+Malawi
+Mali
+Mozambique
+Niger
+Nigeria
+Rwanda
+Senegal
+Sierra Leone
+Somalia
+Swaziland
+Tanzania
+Timor-Leste
+Uganda
+Zambia
+Zimbabwe
+
+Cluster 1
+Mean Birth Rate: 15.112258333333331
+Mean Life Expectancy: 75.53349166666668
+
+Cluster 2
+Mean Birth Rate: 28.152880952380936
+Mean Life Expectancy: 64.85904761904762
+
+Cluster 3
+Mean Birth Rate: 39.980941176470594
+Mean Life Expectancy: 51.58561764705884
+
+//////BOTH//////
+
+Convergence 1: 137440.09451740133
+Convergence 2: 73540.14511836502
+Convergence 3: 66376.32381898694
+Convergence 4: 63291.27488692172
+Convergence 5: 62796.61954807543
+Convergence 6: 62713.923360454144
+
+Number of Countries per Cluster
+Cluster 2: 100
+Cluster 1: 97
+Cluster 3: 98
+Cluster 4: 97
+
+Cluster 2
+Mean Birth Rate: 23.463069999999995
+Mean Life Expectancy: 67.8145
+
+Cluster 1
+Mean Birth Rate: 13.338505154639176
+Mean Life Expectancy: 76.30692783505152
+
+Cluster 3
+Mean Birth Rate: 39.055540816326534
+Mean Life Expectancy: 55.145112244897966
+
+Cluster 4
+Mean Birth Rate: 47.2816907216495
+Mean Life Expectancy: 40.28537649484538
+
+List of Countries per Cluster
+Cluster 2
+
+(2008)Algeria
+(2008)Azerbaijan
+(2008)Bangladesh
+(2008)Belize
+(2008)Bhutan
+(2008)Bolivia
+(2008)Cambodia
+(2008)Cape Verde
+(2008)Colombia
+(2008)Dominican Rep.
+(2008)Egypt
+(2008)El Salvador
+(2008)Fiji
+(2008)French Guiana
+(2008)Gabon
+(2008)Guatemala
+(2008)Guyana
+(2008)Haiti
+(2008)Honduras
+(2008)India
+(2008)Indonesia
+(2008)Iran
+(2008)Iraq
+(2008)Jamaica
+(2008)Jordan
+(2008)Kazakhstan
+(2008)Kyrgyzstan
+(2008)Laos
+(2008)Libya
+(2008)Malaysia
+(2008)Mayotte
+(2008)Micronesia  Fed. Sts.
+(2008)Mongolia
+(2008)Morocco
+(2008)Myanmar
+(2008)Namibia
+(2008)Nepal
+(2008)Nicaragua
+(2008)Oman
+(2008)Pakistan
+(2008)Paraguay
+(2008)Peru
+(2008)Philippines
+(2008)Samoa
+(2008)Sao Tome and Principe
+(2008)Saudi Arabia
+(2008)Solomon Islands
+(2008)South Africa
+(2008)Suriname
+(2008)Syria
+(2008)Tajikistan
+(2008)Tonga
+(2008)Turkmenistan
+(2008)Uzbekistan
+(2008)Vanuatu
+(2008)Venezuela
+(2008)West Bank and Gaza
+(2008)Western Sahara
+(1953)Argentina
+(1953)Australia
+(1953)Austria
+(1953)Belarus
+(1953)Belgium
+(1953)Bulgaria
+(1953)Canada
+(1953)Croatia
+(1953)Cyprus
+(1953)Czech Rep.
+(1953)Denmark
+(1953)Estonia
+(1953)Finland
+(1953)France
+(1953)Georgia
+(1953)Germany
+(1953)Greece
+(1953)Hungary
+(1953)Iceland
+(1953)Ireland
+(1953)Israel
+(1953)Italy
+(1953)Japan
+(1953)Latvia
+(1953)Lithuania
+(1953)Luxembourg
+(1953)Malta
+(1953)Montenegro
+(1953)Netherlands
+(1953)New Zealand
+(1953)Poland
+(1953)Portugal
+(1953)Romania
+(1953)Russia
+(1953)Serbia
+(1953)Slovak Republic
+(1953)Slovenia
+(1953)Spain
+(1953)Switzerland
+(1953)Ukraine
+(1953)United States
+(1953)Uruguay
+
+Cluster 1
+
+(2008)Albania
+(2008)Argentina
+(2008)Armenia
+(2008)Aruba
+(2008)Australia
+(2008)Austria
+(2008)Bahamas
+(2008)Bahrain
+(2008)Barbados
+(2008)Belarus
+(2008)Belgium
+(2008)Bosnia and Herzegovina
+(2008)Brazil
+(2008)Brunei
+(2008)Bulgaria
+(2008)Canada
+(2008)Channel Islands
+(2008)Chile
+(2008)China
+(2008)Costa Rica
+(2008)Croatia
+(2008)Cuba
+(2008)Cyprus
+(2008)Czech Rep.
+(2008)Denmark
+(2008)Ecuador
+(2008)Estonia
+(2008)Finland
+(2008)France
+(2008)French Polynesia
+(2008)Georgia
+(2008)Germany
+(2008)Greece
+(2008)Grenada
+(2008)Guadeloupe
+(2008)Guam
+(2008)Hong Kong  China
+(2008)Hungary
+(2008)Iceland
+(2008)Ireland
+(2008)Israel
+(2008)Italy
+(2008)Japan
+(2008)Korea  Dem. Rep.
+(2008)Korea  Rep.
+(2008)Kuwait
+(2008)Latvia
+(2008)Lebanon
+(2008)Lithuania
+(2008)Luxembourg
+(2008)Macao  China
+(2008)Macedonia  FYR
+(2008)Maldives
+(2008)Malta
+(2008)Martinique
+(2008)Mauritius
+(2008)Mexico
+(2008)Moldova
+(2008)Montenegro
+(2008)Netherlands
+(2008)Netherlands Antilles
+(2008)New Caledonia
+(2008)New Zealand
+(2008)Norway
+(2008)Panama
+(2008)Poland
+(2008)Portugal
+(2008)Puerto Rico
+(2008)Qatar
+(2008)Reunion
+(2008)Romania
+(2008)Russia
+(2008)Saint Lucia
+(2008)Saint Vincent and the Grenadines
+(2008)Serbia
+(2008)Singapore
+(2008)Slovak Republic
+(2008)Slovenia
+(2008)Spain
+(2008)Sri Lanka
+(2008)Sweden
+(2008)Switzerland
+(2008)Thailand
+(2008)Trinidad and Tobago
+(2008)Tunisia
+(2008)Turkey
+(2008)Ukraine
+(2008)United Arab Emirates
+(2008)United Kingdom
+(2008)United States
+(2008)Uruguay
+(2008)Vietnam
+(2008)Virgin Islands (U.S.)
+(1953)Channel Islands
+(1953)Norway
+(1953)Sweden
+(1953)United Kingdom
+
+Cluster 3
+
+(2008)Angola
+(2008)Benin
+(2008)Botswana
+(2008)Burkina Faso
+(2008)Burundi
+(2008)Cameroon
+(2008)Central African Rep.
+(2008)Comoros
+(2008)Congo  Rep.
+(2008)Cote d'Ivoire
+(2008)Djibouti
+(2008)Equatorial Guinea
+(2008)Eritrea
+(2008)Ethiopia
+(2008)Gambia
+(2008)Ghana
+(2008)Guinea
+(2008)Guinea-Bissau
+(2008)Kenya
+(2008)Lesotho
+(2008)Liberia
+(2008)Madagascar
+(2008)Malawi
+(2008)Mali
+(2008)Mauritania
+(2008)Mozambique
+(2008)Nigeria
+(2008)Papua New Guinea
+(2008)Rwanda
+(2008)Senegal
+(2008)Sierra Leone
+(2008)Somalia
+(2008)Sudan
+(2008)Swaziland
+(2008)Tanzania
+(2008)Timor-Leste
+(2008)Togo
+(2008)Uganda
+(2008)Yemen  Rep.
+(2008)Zimbabwe
+(1953)Albania
+(1953)Armenia
+(1953)Aruba
+(1953)Azerbaijan
+(1953)Bahamas
+(1953)Barbados
+(1953)Belize
+(1953)Bosnia and Herzegovina
+(1953)Brazil
+(1953)Brunei
+(1953)Chile
+(1953)Colombia
+(1953)Costa Rica
+(1953)Cuba
+(1953)Fiji
+(1953)French Guiana
+(1953)French Polynesia
+(1953)Grenada
+(1953)Guadeloupe
+(1953)Guam
+(1953)Guyana
+(1953)Hong Kong  China
+(1953)Jamaica
+(1953)Kazakhstan
+(1953)Korea  Dem. Rep.
+(1953)Korea  Rep.
+(1953)Kuwait
+(1953)Kyrgyzstan
+(1953)Lebanon
+(1953)Macao  China
+(1953)Macedonia  FYR
+(1953)Malaysia
+(1953)Martinique
+(1953)Mauritius
+(1953)Mayotte
+(1953)Mexico
+(1953)Micronesia  Fed. Sts.
+(1953)Moldova
+(1953)Netherlands Antilles
+(1953)New Caledonia
+(1953)Panama
+(1953)Paraguay
+(1953)Philippines
+(1953)Puerto Rico
+(1953)Qatar
+(1953)Reunion
+(1953)Saint Lucia
+(1953)Singapore
+(1953)Sri Lanka
+(1953)Suriname
+(1953)Tajikistan
+(1953)Thailand
+(1953)Tonga
+(1953)Trinidad and Tobago
+(1953)Turkmenistan
+(1953)Uzbekistan
+(1953)Venezuela
+(1953)Virgin Islands (U.S.)
+
+Cluster 4
+
+(2008)Afghanistan
+(2008)Chad
+(2008)Congo  Dem. Rep.
+(2008)Niger
+(2008)Zambia
+(1953)Afghanistan
+(1953)Algeria
+(1953)Angola
+(1953)Bahrain
+(1953)Bangladesh
+(1953)Benin
+(1953)Bhutan
+(1953)Bolivia
+(1953)Botswana
+(1953)Burkina Faso
+(1953)Burundi
+(1953)Cambodia
+(1953)Cameroon
+(1953)Cape Verde
+(1953)Central African Rep.
+(1953)Chad
+(1953)China
+(1953)Comoros
+(1953)Congo  Dem. Rep.
+(1953)Congo  Rep.
+(1953)Cote d'Ivoire
+(1953)Djibouti
+(1953)Dominican Rep.
+(1953)Ecuador
+(1953)Egypt
+(1953)El Salvador
+(1953)Equatorial Guinea
+(1953)Eritrea
+(1953)Ethiopia
+(1953)Gabon
+(1953)Gambia
+(1953)Ghana
+(1953)Guatemala
+(1953)Guinea
+(1953)Guinea-Bissau
+(1953)Haiti
+(1953)Honduras
+(1953)India
+(1953)Indonesia
+(1953)Iran
+(1953)Iraq
+(1953)Jordan
+(1953)Kenya
+(1953)Laos
+(1953)Lesotho
+(1953)Liberia
+(1953)Libya
+(1953)Madagascar
+(1953)Malawi
+(1953)Maldives
+(1953)Mali
+(1953)Mauritania
+(1953)Mongolia
+(1953)Morocco
+(1953)Mozambique
+(1953)Myanmar
+(1953)Namibia
+(1953)Nepal
+(1953)Nicaragua
+(1953)Niger
+(1953)Nigeria
+(1953)Oman
+(1953)Pakistan
+(1953)Papua New Guinea
+(1953)Peru
+(1953)Rwanda
+(1953)Saint Vincent and the Grenadines
+(1953)Samoa
+(1953)Sao Tome and Principe
+(1953)Saudi Arabia
+(1953)Senegal
+(1953)Sierra Leone
+(1953)Solomon Islands
+(1953)Somalia
+(1953)South Africa
+(1953)Sudan
+(1953)Swaziland
+(1953)Syria
+(1953)Tanzania
+(1953)Timor-Leste
+(1953)Togo
+(1953)Tunisia
+(1953)Turkey
+(1953)Uganda
+(1953)United Arab Emirates
+(1953)Vanuatu
+(1953)Vietnam
+(1953)West Bank and Gaza
+(1953)Western Sahara
+(1953)Yemen  Rep.
+(1953)Zambia
+(1953)Zimbabwe

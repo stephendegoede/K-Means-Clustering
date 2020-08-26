@@ -1,0 +1,41 @@
+
+*********************************************************************************************************
+
+From the graph, there are more countries with a lower Life Expectancy in 1953 compared to 2008.
+In 1953 there are 50 countries in the high and 86 in the low life expectancy clusters.
+In 2008 there are 120 countries in the high and 34 in the low life expectancy cluster.
+The movement from low to high life expectancy is associated with a lower birth rate for those countries
+when you compare 1953 to 2008.
+Countries with lower birthrates clearly have higher life expectancy.
+
+For each cluster, the mean birthrate decreases from 1953 to 2008. With this decrease in birthrate
+there is an increase in life expectancy per cluster.
+
+*********************************************************************************************************
+
+From the graph it is clear that a lower Birth Rate is associated with a higher Life Expectancy.
+
+Cluster 1 has a mean birth rate of 13 and mean life expectancy of 76 and includes 97 countries. This 
+cluster is mostly made up of 2008 countries, with 4 1953 countries including Channel Islands, Norway,
+Sweden and the United Kingdom.
+
+Cluster 4 has a mean birth rate of 47 and mean life expectancy of 40 and includes 97 countries. This
+cluster is mostly made up of 1953 countries, with 5 2008 countries including Afghanistan, Chad, Congo
+and Niger.
+
+The above two observations could be due to the average number of countries that had higher life expectancy
+and lower birth rates from 1953 to 2008. Cluster 4 mostly has 1953 countries because in 1953 there were
+more countries on average with lower life expectancy and higher birthrates. But as countries developed and
+became more educated, birthrates lowered and life expectancy increased. Therefore, in 2008, we see Cluster 1
+in mostly made up of 2008 countries as life expectancy has increased on average.
+
+Countries like South Africa has moved from Cluster 4 (lowest life expectancy cluster of 47 year) to 
+Cluster 2 (life expectancy of 67 years) and has therefore moved up as birth rates decrease and life expectancy 
+increases.
+
+South Africa 2008 and United States 1953 are in the same Cluster 2. Therefore, both countries at different
+times are sharing a cluster with birthrate of 23 and Life Expectancy of 67. In 55 year, South Africa
+has moved from the lowest cluster to where the United States was in 1953. The United States has in the same
+time period moved up one cluster to the cluster with the highest Life Expectancy of 76.
+
+It is clear that as the world has developed and birth rates have decreased, life expectancy has increased.
